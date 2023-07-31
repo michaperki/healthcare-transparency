@@ -1,0 +1,36 @@
+/* css for the home page for a yet-to-be-named app with a goal of helping people understand hospital costs */
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  color: #000000;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: #ffffff;
+}
+
+p {
+  font-size: 1.5em;
+  text-align: center;
+  color: #000000;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: #ffffff;
+}
+
+Link {
+  font-size: 1.5em;
+  text-align: center;
+  color: #000000;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: #ffffff;
+  text-decoration: none;
+}
+
